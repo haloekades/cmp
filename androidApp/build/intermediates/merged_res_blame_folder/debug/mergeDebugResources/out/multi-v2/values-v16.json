@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ekades.cmp.android.androidApp-mergeDebugResources-41:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/imispramestinurazizah/.gradle/caches/8.11.1/transforms/cac48f15bb8b584f21025b67f38a460f/transformed/core-1.10.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

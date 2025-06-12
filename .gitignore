@@ -1,10 +1,22 @@
+# Kotlin
 *.iml
 .gradle
-.idea
-.DS_Store
-build
-captures
-.externalNativeBuild
-.cxx
+/build
+/.idea
+
+# Android
 local.properties
-xcuserdata
+*.keystore
+
+# iOS
+*.xcuserstate
+*.xcworkspace
+Pods/
+DerivedData/
+
+# JetBrains Compose caches
+compose-cache/
+
+# OS
+.DS_Store
+Thumbs.db
